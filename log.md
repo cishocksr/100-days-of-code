@@ -2,21 +2,14 @@
 
 Starting a new 100 days while i am actively looking for my first job as a Dev! Within 100 days, I should have a few more projecets for my portfolio, as well as level up my current knowledge!
 
-### Day 0: May 16, 2021
+### Day 0: May 15, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Implemented drag and drop, and it is now fully functional.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Actually starting to feel like an actual engineer. A lot of issue were raised so far, but after some research and walking away for a little it seem to have worked out grear.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
-### Day 1: June 27, Monday
+### Day 1: May 16, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Got the ui looking pretty good with a toolbard, sidebar and able to channge background colors based upon preset data. Still having issues getting the background image to change, but that is tomorrows lesson. Also started to get a clearer understanding of graphQL which i think i will use in this project
